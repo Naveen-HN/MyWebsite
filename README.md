@@ -1,2 +1,2 @@
 # MyWebsite
-A simple interactive webpage using HTML 5
+A simple reactive webpage using HTML 5 and CSS
